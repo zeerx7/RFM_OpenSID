@@ -72,12 +72,9 @@ padding:5px
 </form>
 
 <?php
-// Bau2 ada recorder :)
-// Lo Heker? Programer? buset kok buta kode?
+// 
 // Coded By Zeerx7 <> XploitSec-ID
 // 28-06-2020
-//
-// thanks https://stackoverflow.com/questions/4003989/upload-a-file-using-file-get-contents
 //
 error_reporting(0);
 function cookies($url)
